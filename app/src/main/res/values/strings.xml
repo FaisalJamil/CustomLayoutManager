@@ -1,0 +1,16 @@
+<!--
+  ~ Copyright (c) 2017. Faisal Jamil
+  -->
+
+<resources>
+    <string name="app_name">Mylivn Test</string>
+    <string name="post_list">List of Posts</string>
+    <string name="common_error">An error occurred!</string>
+    <string name="add_new_item">Add Item</string>
+    <string name="add_new_url">Add url here</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="alert">Alert!</string>
+    <string name="item_clicked">You have selected the item with identifier %1$s</string>
+    <string name="item_delete">Do you really want to delete the item with identifier %1$s</string>
+    <string name="item_swapped">Item swap saved!</string>
+</resources>
